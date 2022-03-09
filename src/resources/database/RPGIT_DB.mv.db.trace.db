@@ -1,0 +1,4 @@
+2022-02-14 09:47:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "PLAYABLE_CHARACTER" nicht gefunden (diese Datenbank ist leer)
+Table "PLAYABLE_CHARACTER" not found (this database is empty); SQL statement:
+SELECT CLASS from PLAYABLE_CHARACTER [42104-210]

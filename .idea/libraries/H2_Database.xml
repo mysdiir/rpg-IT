@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="H2 Database">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../Java Libraries/h2 Database/H2/bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../../Java Libraries/h2 Database/H2/bin" recursive="false" />
+  </library>
+</component>
